@@ -1,3 +1,6 @@
+![My Tech Banner](https://user-images.githubusercontent.com/your-image-link.png](https://github.com/user-attachments/assets/ab0ab13d-a094-433d-a710-aa2482595315)
+
+
 
 # Hi, I'm Vahhab! 👋
 
