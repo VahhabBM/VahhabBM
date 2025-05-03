@@ -28,4 +28,3 @@ My focus is on learning backend developement with Django right now.
 
 ✈️ telegram : https://t.me/vahhabBM
 
-🔗 LinkedIn: https://linkedin.com/in/vahhab-bolandmanesh-6a0752338
