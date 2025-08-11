@@ -9,7 +9,7 @@
 
 I'm a computer science student. 
 I'm Interested in AI and mechine learning & also web developement.
-My focus is on learning backend developement with Django right now.
+My focus is on deep learning right now and I'm passing the deep learning specialization course by Andrew NG .
 
 
 
