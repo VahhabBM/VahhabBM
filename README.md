@@ -20,6 +20,8 @@ My focus is on learning backend developement with Django right now.
 
 •	Web Development: Django, HTML, CSS, Bootstrap, RESTful API
 
+• Database: SQL language , postgresql
+
 •	Tools & Platforms: Git, GitHub, Jupyter Notebook, VS Code, PyCharm , postman
 
 
