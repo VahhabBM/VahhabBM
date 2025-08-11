@@ -9,7 +9,7 @@
 
 I'm a computer science student. 
 I'm Interested in AI and mechine learning & also web developement.
-Here you can see what have I done in my programming career and computer science education !
+Here you can see what have I done in my programming career and my education at computer science!
 
 
 
