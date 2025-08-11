@@ -9,7 +9,7 @@
 
 I'm a computer science student. 
 I'm Interested in AI and mechine learning & also web developement.
-My focus is on deep learning right now and I'm passing the deep learning specialization course by Andrew NG .
+Here you can see what have I done in my programming career and computer science education !
 
 
 
