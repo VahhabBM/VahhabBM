@@ -16,9 +16,9 @@ Here you can see what have I done in my programming career and my education at c
 ## 🛠 Skills
 •	Programming Languages: Python
 
-•	Machine Learning & Data Analysis: Pandas, NumPy, Scikit-learn, Matplotlib, BeautifulSoup , nltk
+•	Machine Learning & Data Analysis: ML , DL , Pandas, NumPy, Scikit-learn, pytorch , Matplotlib, BeautifulSoup , nltk 
 
-•	Web Development: Django, HTML, CSS, Bootstrap, RESTful API
+•	Web Development: Django, HTML, CSS, Bootstrap, RESTful API , Docker
 
 • Database: SQL language , postgresql
 
