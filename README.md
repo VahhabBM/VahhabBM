@@ -14,7 +14,7 @@ Here you can see what have I done in my programming career and my education at c
 
 
 ## 🛠 Skills
-•	Programming Languages: Python
+•	Programming Languages: java , Python (advanced)
 
 •	Machine Learning & Data Analysis: ML , DL , Pandas, NumPy, Scikit-learn, pytorch , Matplotlib, BeautifulSoup , nltk 
 
