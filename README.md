@@ -18,11 +18,11 @@ Here you can see what have I done in my programming career and my education at c
 
 •	Machine Learning & Data Analysis: ML , DL , Pandas, NumPy, Scikit-learn, pytorch , Matplotlib, BeautifulSoup , nltk 
 
-•	Web Development: Django, HTML, CSS, Bootstrap, RESTful API , Docker
+•	Web Development: Django , spring , java EE , HTML, CSS, Bootstrap, RESTful API , Docker
 
-• Database: SQL language , postgresql
+• Database: SQL language , postgresql , oracle
 
-•	Tools & Platforms: Git, GitHub, Jupyter Notebook, VS Code, PyCharm , postman
+•	Tools & Platforms: Git, GitHub , Gitlab , Jupyter Notebook, VS Code, PyCharm , postman
 
 
 ## ways to reach me:
